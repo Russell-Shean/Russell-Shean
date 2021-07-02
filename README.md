@@ -9,6 +9,7 @@
 1. Cumulative cases per 100,000 for Taiwan
 2. New cases per 100,000 for Northern Taiwan
 
+Other fun stuff in the pinned repositories
 
 <!--
 **Russell-Shean/Russell-Shean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
