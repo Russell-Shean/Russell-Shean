@@ -6,7 +6,7 @@
 #### Things I've made: 
 <img src="https://github.com/Russell-Shean/Covid_SHINY_MAP/blob/main/quanguo_prev.gif" width="400" height="auto" /><img src="https://github.com/Russell-Shean/Covid_SHINY_MAP/blob/main/beibu_inc.gif" width="400" height="auto" />
 
-1. Cumulative cases per 100,000 for Taiwan and 
+1. Cumulative cases per 100,000 for Taiwan
 2. New cases per 100,000 for Northern Taiwan
 
 
