@@ -1,6 +1,4 @@
 # Hi there 👋
-
-- Feel free to contact me with questions, suggestions or collaboration ideas
 - Right now I'm making <a href="https://tulipsfortaiwan.github.io/Covid_528_map.html">maps</a> and visualizations of Taiwan's Covid outbreak, but I'm open to other ideas too!
 
 #### Things I've made: 
