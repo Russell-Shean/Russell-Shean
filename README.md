@@ -2,7 +2,7 @@
 - Right now I'm making <a href="https://tulipsfortaiwan.github.io/Covid_528_map.html">maps</a> and visualizations of Taiwan's Covid outbreak, but I'm open to other ideas too!
 
 #### Things I've made: 
-<img src="https://github.com/Russell-Shean/Covid_SHINY_MAP/raw/main/Graphs%20and%20GIFS/quanguo_prev.gif" width="400" height="auto" /><img src="https://github.com/Russell-Shean/Covid_SHINY_MAP/Graphs and GIFS/blob/main/beibu_inc.gif" width="400" height="auto" />
+<img src="https://github.com/Russell-Shean/Covid_SHINY_MAP/raw/main/Graphs%20and%20GIFS/quanguo_prev.gif" width="400" height="auto" /><img src="https://github.com/Russell-Shean/Covid_SHINY_MAP/raw/main/Graphs%20and%20GIFS/beibu_inc.gif" width="400" height="auto" />
 
 1. Cumulative cases per 100,000 for Taiwan
 2. New cases per 100,000 for Northern Taiwan
