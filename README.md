@@ -1,6 +1,6 @@
 # Hi there 👋
 - If you're a potential employer who wants to see examples of code I've written, I've made a special repository just for you!
-- Here are links to a shiny data visualization webapp that I've made and a Rmarkdown data visualization file. 
+- Here are links to a shiny data visualization <a href="https://russ-tmu.shinyapps.io/twitter_shiny/">webapp</a> that I've made and an Rmarkdown file that shows a <a href="" >map</a> of COVID-19 cases in Taiwan. 
 - If you have an interesting project you'd like to collaborate on, (or job offer hahah), feel free to <a href="https://www.linkedin.com/in/russell-shean/" target="_blank" rel="noopener noreferrer">reach out</a>.
 
 #### Things I've made: 
