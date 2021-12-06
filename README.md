@@ -1,5 +1,7 @@
 # Hi there 👋
-- Right now I'm making <a href="https://tulipsfortaiwan.github.io/Covid_528_map.html">maps</a> and visualizations of Taiwan's Covid outbreak, but I'm open to other ideas too!
+- If you're a potential employer who wants to see examples of code I've written, I've made a special repository just for you!
+- Here are links to a shiny data visualization webapp that I've made and a Rmarkdown data visualization file. 
+- If you have an interesting project you'd like to collaborate on, (or job offer hahah), feel free to <a href="https://www.linkedin.com/in/russell-shean/">reach out</>.
 
 #### Things I've made: 
 <img src="https://github.com/Russell-Shean/Covid_SHINY_MAP/raw/main/Graphs%20and%20GIFS/quanguo_prev.gif" width="400" height="auto" /><img src="https://github.com/Russell-Shean/Covid_SHINY_MAP/raw/main/Graphs%20and%20GIFS/beibu_inc.gif" width="400" height="auto" />
