@@ -6,7 +6,7 @@
 
 
 #### Here's something I made in R: 
-<img src="https://github.com/Russell-Shean/Taiwan_COVID-19/raw/main/Graphs_and_GIFS/quanguo_prev.gif" width="400" height="auto" /><img src="https://github.com/Russell-SheanTaiwan_COVID-19/raw/main/Graphs_and_GIFS/beibu_inc.gif" width="400" height="auto" />
+<img src="https://github.com/Russell-Shean/Taiwan_COVID-19/raw/main/Graphs_and_GIFS/quanguo_prev.gif" width="400" height="auto" /><img src="https://github.com/Russell-Shean/Taiwan_COVID-19/raw/main/Graphs_and_GIFS/beibu_inc.gif" width="400" height="auto" />
 
 1. Cumulative cases per 100,000 for Taiwan
 2. New cases per 100,000 for Northern Taiwan
