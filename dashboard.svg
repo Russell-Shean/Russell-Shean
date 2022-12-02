@@ -2,7 +2,7 @@
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <ul>
-            <li>text</li>
+            <li><iframe src="https://doh.wa.gov/emergencies/covid-19/data-dashboard"></iframe></li>
         </ul>
         <!-- Other embed HTML element/text into SVG -->
     </div>
