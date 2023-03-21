@@ -30,7 +30,9 @@ h1 {
   font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
   color: rgb(52, 73, 94);
   transform-origin: bottom;
-  animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+  animation: x 1s, y 0.5s;
+  animation-timing-function:cubic-bezier(.5,-800,.5,800);
+  animation-iteration-count:infinite;
 }
   
       
