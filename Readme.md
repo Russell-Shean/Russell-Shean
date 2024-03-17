@@ -7,6 +7,8 @@
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=Russell-Shean&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=russell-shean)](https://git.io/streak-stats)
+
 <!-- I took the code for this from here: https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441 -->
 This is my personal account. Stay tuned because I'll be highlighting some exciting personal projects here soon! 
 
