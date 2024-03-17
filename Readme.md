@@ -1,5 +1,6 @@
 # Hi There!
 
+<!--
 Top languages card              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russell-Shean&exclude_repo=Russell-Shean.github.io,NLD-COVID19-sewage&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,7 +9,7 @@ Github Stats card
 
 Github streak card        
 [![GitHub Streak](https://streak-stats.demolab.com?user=russell-shean)](https://git.io/streak-stats)
-
+--> 
 
 <!-- Moving hand wave gif: https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441 -->
 This is my personal account. Stay tuned because I'll be highlighting some exciting personal projects here soon! 
