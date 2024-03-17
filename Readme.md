@@ -17,9 +17,10 @@ This is my personal account. Stay tuned because I'll be highlighting some exciti
 Here's a link to my work account: https://github.com/DOH-RPS1303                       
 Here's a link to my linkedin: https://www.linkedin.com/in/russell-shean/
 
+<!--
 Have an exciting project you want to colaborate on?             
 Bored and want to know how I made something you found here?            
 Want to hire me? 😅              
 Feel free to reach out on <a href="https://www.linkedin.com/in/russell-shean/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> or GitHub! 
-
+-->
