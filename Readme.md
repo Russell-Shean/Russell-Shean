@@ -13,10 +13,6 @@ Github streak card
 
 <!-- Moving hand wave gif: https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441 -->
 This is my personal account. Stay tuned because I'll be highlighting some exciting personal projects here soon! 
-
-Here's a link to my work account: https://github.com/DOH-RPS1303                       
-Here's a link to my linkedin: https://www.linkedin.com/in/russell-shean/
-
 <!--
 Have an exciting project you want to colaborate on?             
 Bored and want to know how I made something you found here?            
