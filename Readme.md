@@ -14,11 +14,10 @@ Github streak card
 <!-- Moving hand wave gif: https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441 -->
 This is my personal account. It's a mix of finished project that could be put in a portfolio and a bunch of half-finished ideas. Here are some of the more finished projects:
 
-1. <a href="https://github.com/Russell-Shean/batch_scripts">Batch Scripts</a> to set up an R environment:
+1. <a href="https://github.com/Russell-Shean/batch_scripts">Batch Scripts</a> to set up an R environment:</br>
 Reproducible doesn't mean just the code, it has to include the software and environment used to run the software. This is a windows shell script to help your coworkers and/or boss install and setup R for the first time so they can run the cool code you wrote! No more "but I don't have R installed on my computer" excuses!
-3. <a href="https://github.com/Russell-Shean/bigfoot_sightings">Bigfoot Sightings</a> Shiny:
-
-Here's an example of a Shiny project I've made. It's currently under construction while I make a bigger, better, badder 2.0 version, but I've still included 1.0 in this list because it shows a bunch of cool CSS and JS tricks that can be employed to make a shiny shinier. 
+3. <a href="https://github.com/Russell-Shean/bigfoot_sightings">Bigfoot Sightings</a> Shiny:</br>
+   Here's an example of a Shiny project I've made. It's currently under construction while I make a bigger, better, badder 2.0 version, but I've still included 1.0 in this list because it shows a bunch of cool CSS and JS tricks that can be employed to make a shiny shinier. 
 <!--
 Have an exciting project you want to colaborate on?             
 Bored and want to know how I made something you found here?            
