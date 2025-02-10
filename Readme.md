@@ -18,7 +18,7 @@ This is my personal account. It's a mix of finished project that could be put in
 Reproducible doesn't mean just the code, it has to include the software and environment used to run the software. This is a windows shell script to help your coworkers and/or boss install and setup R for the first time so they can run the cool code you wrote! No more "but I don't have R installed on my computer" excuses!
 2. <a href="https://github.com/Russell-Shean/bigfoot_sightings">Bigfoot Sightings Shiny</a>:</br>
    Here's an example of a Shiny project I've made. It's currently under construction while I make a bigger, better, badder 2.0 version, but I've still included V.1.0 in this list because it shows a bunch of cool CSS and JS tricks that can be employed to make a shiny shinier.
-3. <a href="https://github.com/Russell-Shean/PBI-dashboard-creator">Power Bpy</a>:</br>
+3. <a href="https://github.com/Russell-Shean/powerbpy">Power Bpy</a>:</br>
 Do you wish you could build dashboard with python or R, but can't because the client specifically asked for Power BI or your employer only supports publishing Power BI? Do you love love love Power BI, but wish there was a way to automatically generate parts of your dashboard to speed up your development process? Introducing Power Bpy, a python package that lets you create Power BI dashboards using functions 💪 instead of the point-and-click interface 🥹. Dashboards created using these functions can be opened, edited and saved normally in Power BI desktop.
 
 <!--
