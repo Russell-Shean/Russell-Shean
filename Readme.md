@@ -12,7 +12,7 @@ Github streak card
 --> 
 
 <!-- Moving hand wave gif: https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441 -->
-This is my personal account. It's a mix of finished project that could be put in a portfolio and a bunch of half-finished ideas. Here are some of the more finished projects:
+This is my personal account. It's a mix of finished projects that could be put in a portfolio and a bunch of half-finished ideas. Here are some of the more finished projects:
 
 1. <a href="https://github.com/Russell-Shean/batch_scripts">Batch Scripts</a> to set up an R environment:</br>
 Reproducible doesn't mean just the code, it has to include the software and environment used to run the software. This is a windows shell script to help your coworkers and/or boss install and setup R for the first time so they can run the cool code you wrote! No more "but I don't have R installed on my computer" excuses!
