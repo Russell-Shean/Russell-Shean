@@ -15,9 +15,7 @@ Github streak card
 This is my personal account. It's a mix of finished projects that could be put in a portfolio and a bunch of half-finished ideas. Here are some of the more finished projects:
 
 1. <a href="https://github.com/Russell-Shean/powerbpy">Power Bpy</a>:</br>
-Do you wish you could build dashboards with code, but can't because the client specifically asked for Power BI or your employer only supports publishing Power BI? Do you love Power BI, but wish there was a way to automatically generate parts of your dashboard to speed up your development process?      
-
-Introducing Power Bpy, a python package that lets you create Power BI dashboards using python. Dashboards created using these functions can be opened, edited and saved normally in Power BI desktop. Power Bpy uses the new .pbip/.pbir format which stores dashboards as directories of text files instead of binary files letting you version control your dashboards! 
+Do you wish you could build dashboards with code, but can't because the client specifically asked for Power BI or your employer only supports publishing Power BI? Do you love Power BI, but wish there was a way to automatically generate parts of your dashboard to speed up your development process? Introducing Power Bpy, a python package that lets you create Power BI dashboards using python. Dashboards created using these functions can be opened, edited and saved normally in Power BI desktop. Power Bpy uses the new .pbip/.pbir format which stores dashboards as directories of text files instead of binary files letting you version control your dashboards! 
 
 2. <a href="https://github.com/Russell-Shean/batch_scripts">Batch Scripts</a> to set up an R environment:</br>
 Reproducible doesn't mean just the code, it has to include the software and environment used to run the software. This is a windows shell script to help your coworkers and/or boss install and setup R for the first time so they can run the cool code you wrote! No more "but I don't have R installed on my computer" excuses!
