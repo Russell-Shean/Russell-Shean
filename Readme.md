@@ -14,12 +14,16 @@ Github streak card
 <!-- Moving hand wave gif: https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441 -->
 This is my personal account. It's a mix of finished projects that could be put in a portfolio and a bunch of half-finished ideas. Here are some of the more finished projects:
 
-1. <a href="https://github.com/Russell-Shean/batch_scripts">Batch Scripts</a> to set up an R environment:</br>
+1. <a href="https://github.com/Russell-Shean/powerbpy">Power Bpy</a>:</br>
+Do you wish you could build dashboards with code, but can't because the client specifically asked for Power BI or your employer only supports publishing Power BI? Do you love Power BI, but wish there was a way to automatically generate parts of your dashboard to speed up your development process?      
+
+Introducing Power Bpy, a python package that lets you create Power BI dashboards using python. Dashboards created using these functions can be opened, edited and saved normally in Power BI desktop. Power Bpy uses the new .pbip/.pbir format which stores dashboards as directories of text files instead of binary files letting you version control your dashboards! 
+
+2. <a href="https://github.com/Russell-Shean/batch_scripts">Batch Scripts</a> to set up an R environment:</br>
 Reproducible doesn't mean just the code, it has to include the software and environment used to run the software. This is a windows shell script to help your coworkers and/or boss install and setup R for the first time so they can run the cool code you wrote! No more "but I don't have R installed on my computer" excuses!
-2. <a href="https://github.com/Russell-Shean/bigfoot_sightings">Bigfoot Sightings Shiny</a>:</br>
+3. <a href="https://github.com/Russell-Shean/bigfoot_sightings">Bigfoot Sightings Shiny</a>:</br>
    Here's an example of a Shiny project I've made. It's currently under construction while I make a bigger, better, badder 2.0 version, but I've still included V.1.0 in this list because it shows a bunch of cool CSS and JS tricks that can be employed to make a shiny shinier.
-3. <a href="https://github.com/Russell-Shean/powerbpy">Power Bpy</a>:</br>
-Do you wish you could build dashboard with python or R, but can't because the client specifically asked for Power BI or your employer only supports publishing Power BI? Do you love love love Power BI, but wish there was a way to automatically generate parts of your dashboard to speed up your development process? Introducing Power Bpy, a python package that lets you create Power BI dashboards using functions 💪 instead of the point-and-click interface 🥹. Dashboards created using these functions can be opened, edited and saved normally in Power BI desktop.
+
 4. <a href="https://www.russellshean.com/blog_posts/geocoding-instructions/code_sample.html">Offline Geocoding</a>:</br>
 This blog post shows how to setup a free open-source offline geocoding database using Docker and <a href="https://nominatim.org/">Nominatim</a>. It also shows R code for sending address's to the database and creating some simple maps. The code sample is written as a tutorial for epidemiologists who want to avoid sending patient addresses to online geocoding services out of privacy concerns. Created using R and Quarto.  
 
